@@ -21,7 +21,7 @@ The *Circular Progress Bar* is a visually appealing web component that represent
 2. The percentage is displayed at the center of the circular bar.
 
 ## Live Demo 🌐
-Check out the live demo: [Circular Progress Bar Demo](https://circular-progress-bar-beige.vercel.app)
+Check out the live demo: [Circular Progress Bar Demo](https://circular-progress-bar-pkfp.vercel.app)
 
 ## Installation 🛠️
 1. Clone the repository: `git clone https://github.com/Eraycann/Circular-Progress-Bar`
